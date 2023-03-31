@@ -1,0 +1,12 @@
+C:\Users\T18913\Documents\NewTalents\Concurrencia\Example\Example\bin\Debug\Example.dll
+C:\Users\T18913\Documents\NewTalents\Concurrencia\Example\Example\bin\Debug\Example.pdb
+C:\Users\T18913\Documents\NewTalents\Concurrencia\Example\Example\obj\Debug\Example.csproj.AssemblyReference.cache
+C:\Users\T18913\Documents\NewTalents\Concurrencia\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\T18913\Documents\NewTalents\Concurrencia\Example\Example\obj\Debug\Example.dll
+C:\Users\T18913\Documents\NewTalents\Concurrencia\Example\Example\obj\Debug\Example.pdb
+C:\Users\Abdias_Santos\Documents\Tesis\Curso\Example\Example\bin\Debug\Example.dll
+C:\Users\Abdias_Santos\Documents\Tesis\Curso\Example\Example\bin\Debug\Example.pdb
+C:\Users\Abdias_Santos\Documents\Tesis\Curso\Example\Example\obj\Debug\Example.csproj.AssemblyReference.cache
+C:\Users\Abdias_Santos\Documents\Tesis\Curso\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\Abdias_Santos\Documents\Tesis\Curso\Example\Example\obj\Debug\Example.dll
+C:\Users\Abdias_Santos\Documents\Tesis\Curso\Example\Example\obj\Debug\Example.pdb
